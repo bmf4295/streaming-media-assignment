@@ -4,7 +4,7 @@
   "description": "Streaming media assignment for Rich Media 2",
   "main": "./src/server.js",
   "scripts": {
-    "test": "echo \"Tests complete\" && exit 1",
+    "test": "echo \"Tests complete\"",
     "start":"node ./src/server.js",
     "pretest":"eslint ./src --fix"
   },
